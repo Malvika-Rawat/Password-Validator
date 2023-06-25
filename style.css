@@ -44,6 +44,7 @@ h2{
     display:inline-block;
     color:gray;
     margin:auto;
+    float:right;
     margin-top:10px;
     margin-right:40px;
     cursor:pointer;
